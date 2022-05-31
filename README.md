@@ -1,7 +1,9 @@
 # 양성현 포트폴리오<br/>
 ## 👦Intro
 영남대학교 컴퓨터 공학을 전공했으며, 졸업 후 안드로이드 앱 개발자를 준비하고 있습니다.<br/>
-사용자에게 좋은 경험을 선사할 수 있는 애플리케이션을 만드는 걸 목표로 하는 안드로이드 개발자입니다.<br/>
+사용자에게 좋은 경험을 선사할 수 있는 애플리케이션을 만드는 걸 목표로 하는 안드로이드 개발자입니다.<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogeby)](https://github.com/dogeby/github-readme-stats)
+
 ## 📝Projects
 ### 1. [YU멘토링](https://github.com/dogeby/YUMentoring)
 ![YU멘토링 이미지](https://user-images.githubusercontent.com/68229193/142297550-1faff9a6-1892-428b-af79-7d1c0209aea1.JPG)<br/>
